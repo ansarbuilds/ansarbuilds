@@ -3,9 +3,9 @@
 </a>
 
 <p align="center">
-  <a href="https://ansarbuilds.dev"><img src="https://img.shields.io/badge/Portfolio-ansarbuilds.dev-818cf8?style=for-the-badge&labelColor=0d1330" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/kmsmohamedansar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1330" alt="LinkedIn" /></a>
-  <a href="mailto:mohamedansarkms@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-f472b6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1330" alt="Email" /></a>
+  <a href="https://ansarbuilds.dev"><img src="https://img.shields.io/badge/Portfolio-ansarbuilds.dev-d5360c?style=for-the-badge&labelColor=101010" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/kmsmohamedansar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-e6d5bd?style=for-the-badge&logo=linkedin&logoColor=101010&labelColor=101010" alt="LinkedIn" /></a>
+  <a href="mailto:mohamedansarkms@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-74200d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email" /></a>
 </p>
 
 **Solutions Engineer at [Datasembly](https://www.datasembly.com/)**, based in Canada. Previously at Amazon Prime Video.
@@ -19,7 +19,7 @@ I like turning ambiguous questions into working systems — then testing the res
     <td width="50%" valign="top">
       <h3>🛩️ <a href="https://github.com/kmsmohamedansar/agent-flight-recorder">Agent Flight Recorder</a></h3>
       A local recorder for AI-agent tool calls and file changes, with replay and evidence-backed failure investigation.<br/><br/>
-      <a href="https://pypi.org/project/flightrecorder-ai/"><img src="https://img.shields.io/pypi/v/flightrecorder-ai?label=pypi%20%C2%B7%20flightrecorder-ai&color=818cf8&labelColor=0d1330" alt="PyPI" /></a>
+      <a href="https://pypi.org/project/flightrecorder-ai/"><img src="https://img.shields.io/pypi/v/flightrecorder-ai?label=pypi%20%C2%B7%20flightrecorder-ai&color=d5360c&labelColor=101010" alt="PyPI" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>📚 <a href="https://github.com/kmsmohamedansar/storyera">StoryEra</a></h3>
