@@ -1,5 +1,5 @@
 <a href="https://ansarbuilds.dev">
-  <img src="./assets/hero.svg" width="100%" alt="Hi, I'm Ansar. Solutions Engineer building reliable data systems, evidence-backed AI tools, and small products from idea to release." />
+  <img src="./assets/hero.svg" width="100%" alt="Hi, I'm Ansar. Solutions Engineer building data systems, AI tools and apps." />
 </a>
 
 <p align="center">
@@ -8,75 +8,53 @@
   <a href="mailto:mohamedansarkms@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-74200d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email" /></a>
 </p>
 
-**Solutions Engineer at [Datasembly](https://www.datasembly.com/)**, based in Canada. Previously at Amazon Prime Video.
+**Solutions Engineer at [Datasembly](https://www.datasembly.com/)**, in Canada. Previously at Amazon Prime Video.
 
-I like turning ambiguous questions into working systems — then testing the results and writing down what I learned.
+I build agents, test AI claims in public, and take small products from idea to release.
 
-## 🧭 Start here
+## Now
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛩️ <a href="https://github.com/kmsmohamedansar/agent-flight-recorder">Agent Flight Recorder</a></h3>
-      A local recorder for AI-agent tool calls and file changes, with replay and evidence-backed failure investigation.<br/><br/>
-      <a href="https://pypi.org/project/flightrecorder-ai/"><img src="https://img.shields.io/pypi/v/flightrecorder-ai?label=pypi%20%C2%B7%20flightrecorder-ai&color=d5360c&labelColor=101010" alt="PyPI" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/kmsmohamedansar/storyera">StoryEra</a></h3>
-      A reusable agent skill that audits novel continuity, cites the evidence, and suggests repairs without editing the manuscript.<br/><br/>
-      <code>agent skill</code> <code>evaluation</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔬 <a href="https://github.com/kmsmohamedansar/rea-study">REA Study</a></h3>
-      An independent evaluation of a tool for inspecting programs without source code, with raw results and a claims ledger.<br/><br/>
-      <code>research</code> <code>reverse engineering</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔌 <a href="https://github.com/kmsmohamedansar/integration-in-a-box">Integration-in-a-box</a></h3>
-      A synthetic two-company integration with real authentication, signed webhooks, and ten deliberate failures with runbooks.<br/><br/>
-      <code>auth</code> <code>webhooks</code> <code>runbooks</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚚 <a href="https://github.com/kmsmohamedansar/data-delivery">Data Delivery</a></h3>
-      A tested pipeline that turns messy weekly files into a clean table and blocks delivery when checks fail.<br/><br/>
-      <code>data quality</code> <code>pipelines</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗿 <a href="https://github.com/kmsmohamedansar/ai-digital-double">AI Digital Double</a></h3>
-      A 3D model of my head made from phone imagery, with the process and failures documented.<br/><br/>
-      <code>3D</code> <code>photogrammetry</code> <code>Blender</code>
-    </td>
-  </tr>
-</table>
+**[saywhen](https://ansarbuilds.dev/#project/saywhen)** is hands-free voice input for terminals and coding assistants. Look at the screen, say the command, and it types it. A preview sits in front of every send, and you can cancel. Open source beta.
 
-## 📱 Shipped on the App Store
+## Selected work
 
-- ✍️ **[Haloscript](https://apps.apple.com/ca/app/haloscript/id6820670080)** — a writing app for Mac, iPad, and iPhone.
-- 🏋️ **[RepTrack](https://apps.apple.com/us/app/reptrack-workout-log/id6761032027)** — a local-first workout log.
+**[Agent Flight Recorder](https://github.com/kmsmohamedansar/agent-flight-recorder)**
+A local black box for coding agents. It keeps the run and points at the edit that broke the test. [On PyPI](https://pypi.org/project/flightrecorder-ai/).
 
-**More work:** [Site Recon](https://github.com/kmsmohamedansar/site-recon) · [Authorized Web Exposure Audit](https://github.com/kmsmohamedansar/authorized-web-exposure-audit) · [Decision Models](https://github.com/kmsmohamedansar/decision-models) · [Sitescout](https://github.com/kmsmohamedansar/sitescout) · [full portfolio →](https://ansarbuilds.dev/#work)
+**[My Take on PRH-JEPA](https://github.com/kmsmohamedansar/prh-jepa)**
+I re-ran a LeCun paper on one laptop, matched the open baselines, and found what the score was hiding.
 
-## 🛠️ Tools I use
+**[My Take on Jev](https://github.com/kmsmohamedansar/decision-models)**
+A small free model routed support tickets better than a larger one, and ran faster on the same laptop.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,postgres,docker,swift,ts,react,nextjs,sqlite,blender&theme=dark" alt="Python, SQL, Docker, Swift, TypeScript, React, Next.js, SQLite, Blender" />
-</p>
+**[My Take on REA](https://github.com/kmsmohamedansar/rea-study)**
+An independent test of a reverse-engineering tool for agents. No clear gain, and the result is published in full.
 
-| Area | Stack |
+**[StoryEra](https://github.com/kmsmohamedansar/storyera)**
+An agent skill that checks a novel for continuity, cites the passages, and leaves the author in charge.
+
+**[Digital Me](https://github.com/kmsmohamedansar/ai-digital-double)**
+A 3D head made from phone photos and 13 seconds of video. The approaches that failed are written down too.
+
+## On the App Store
+
+- **[Haloscript](https://apps.apple.com/ca/app/haloscript/id6820670080)**, a writing studio for Mac, iPad, and iPhone.
+- **[RepTrack](https://apps.apple.com/us/app/reptrack-workout-log/id6761032027)**, a workout log for the gym floor.
+
+Case studies and the rest of the work are on the [portfolio](https://ansarbuilds.dev).
+
+## Tools
+
+| Area | What I reach for |
 |---|---|
-| **Data** | SQL · Snowflake · Python · DuckDB · dbt · Dagster · Airflow · BigQuery · Tableau · Power BI |
-| **Building** | SwiftUI · SwiftData · TypeScript · React · Next.js · SQLite · Docker · Playwright · Blender |
-| **AI** | Model Context Protocol · agent skills · Claude Code · Codex · Cursor |
+| Data | SQL, Snowflake, Python, DuckDB, dbt |
+| Building | Swift, TypeScript, React, Tauri, Rust |
+| AI | Claude Code, MCP, PyTorch, agent skills |
 
-> [!NOTE]
-> Some projects use synthetic data to respect employer and client confidentiality. AI coding tools can accelerate implementation; I remain responsible for problem definition, architecture, testing, review, and final decisions.
+Some projects use made-up data so client and employer details stay private. AI coding tools speed up the build. I still own the problem, the tests, and the final call.
 
 <p align="center">
-  If a project interests you, <a href="mailto:mohamedansarkms@gmail.com"><b>get in touch</b></a> ✦
+  If a project is useful, <a href="mailto:mohamedansarkms@gmail.com"><b>say hi</b></a>.
 </p>
 
-<!-- The banner is generated by assets/generate_banner.py -->
+<!-- The banner is generated by assets/generate_banner.py. Leave assets/hero.svg alone. -->
