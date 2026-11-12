@@ -18,22 +18,22 @@ I build agents, test AI claims in public, and take small products from idea to r
 
 ## Selected work
 
-**[Agent Flight Recorder](https://github.com/kmsmohamedansar/agent-flight-recorder)**
+**[Agent Flight Recorder](https://github.com/ansarbuilds/agent-flight-recorder)**
 A local black box for coding agents. It keeps the run and points at the edit that broke the test. [On PyPI](https://pypi.org/project/flightrecorder-ai/).
 
-**[My Take on PRH-JEPA](https://github.com/kmsmohamedansar/prh-jepa)**
+**[My Take on PRH-JEPA](https://github.com/ansarbuilds/prh-jepa)**
 I re-ran a LeCun paper on one laptop, matched the open baselines, and found what the score was hiding.
 
-**[My Take on Jev](https://github.com/kmsmohamedansar/decision-models)**
+**[My Take on Jev](https://github.com/ansarbuilds/decision-models)**
 A small free model routed support tickets better than a larger one, and ran faster on the same laptop.
 
-**[My Take on REA](https://github.com/kmsmohamedansar/rea-study)**
+**[My Take on REA](https://github.com/ansarbuilds/rea-study)**
 An independent test of a reverse-engineering tool for agents. No clear gain, and the result is published in full.
 
-**[StoryEra](https://github.com/kmsmohamedansar/storyera)**
+**[StoryEra](https://github.com/ansarbuilds/storyera)**
 An agent skill that checks a novel for continuity, cites the passages, and leaves the author in charge.
 
-**[Digital Me](https://github.com/kmsmohamedansar/ai-digital-double)**
+**[Digital Me](https://github.com/ansarbuilds/ai-digital-double)**
 A 3D head made from phone photos and 13 seconds of video. The approaches that failed are written down too.
 
 ## On the App Store
