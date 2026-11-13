@@ -1,5 +1,5 @@
 <a href="https://ansarbuilds.dev">
-  <img src="./assets/hero.svg" width="100%" alt="Hi, I'm Ansar. Solutions Engineer building data systems, AI tools and apps." />
+  <img src="./assets/hero.svg" width="100%" alt="Hi, I'm Ansar. I build data systems, AI tools and apps." />
 </a>
 
 <p align="center">
@@ -8,9 +8,7 @@
   <a href="mailto:mohamedansarkms@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-74200d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email" /></a>
 </p>
 
-**Solutions Engineer at [Datasembly](https://www.datasembly.com/)**, in Canada. Previously at Amazon Prime Video.
-
-I build agents, test AI claims in public, and take small products from idea to release.
+I build agents, test AI claims in public, and take small products from idea to release. I'm in Canada.
 
 ## Now
 
@@ -51,7 +49,7 @@ Case studies and the rest of the work are on the [portfolio](https://ansarbuilds
 | Building | Swift, TypeScript, React, Tauri, Rust |
 | AI | Claude Code, MCP, PyTorch, agent skills |
 
-Some projects use made-up data so client and employer details stay private. AI coding tools speed up the build. I still own the problem, the tests, and the final call.
+Some projects use made-up data so private client details stay off the page. AI coding tools speed up the build. I still own the problem, the tests, and the final call.
 
 <p align="center">
   If a project is useful, <a href="mailto:mohamedansarkms@gmail.com"><b>say hi</b></a>.

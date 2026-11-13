@@ -168,16 +168,19 @@ for n, text in enumerate(phrases):
     )
 
 # --- chips --------------------------------------------------------------------
-chips = [("Solutions Engineer", 78, 238), ("ex-Prime Video", 330, 182), ("Canada", 524, 130)]
+chips = ["Open source", "AI studies", "Canada"]
 chip_svg = []
-for label, x, w in chips:
+x = 78
+for label in chips:
+    w = 36 + int(len(label) * 8.6)
     chip_svg.append(
         f'<rect x="{x}" y="316" width="{w}" height="34" rx="4" fill="none" '
         f'stroke="{MUTED}" stroke-opacity="0.45"/>'
         f'<text x="{x + 18}" y="338" class="chip">{label}</text>'
     )
+    x += w + 16
 
-svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="Hi, I'm Ansar. Solutions Engineer building data systems, AI tools and apps.">
+svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="Hi, I'm Ansar. I build data systems, AI tools and apps.">
 <title>Hi, I'm Ansar</title>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
@@ -217,7 +220,7 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{
   <rect width="{W}" height="{H}" fill="url(#leftFade)"/>
   <!-- text -->
   <g>
-    <text x="80" y="62" class="eyebrow">MOHAMED ANSAR / SOLUTIONS ENGINEER</text>
+    <text x="80" y="62" class="eyebrow">MOHAMED ANSAR</text>
     <line x1="80" y1="80" x2="640" y2="80" stroke="{INK}" stroke-opacity="0.2"/>
     <text x="76" y="196" class="display" font-size="118" fill="{INK}" letter-spacing="1">ANSAR</text>
     <rect x="76" y="212" height="7" fill="{CORAL}">
