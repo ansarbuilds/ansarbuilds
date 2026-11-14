@@ -12,7 +12,7 @@ I build agents, test AI claims in public, and take small products from idea to r
 
 ## Now
 
-**[saywhen](https://ansarbuilds.dev/#project/saywhen)** is hands-free voice input for terminals and coding assistants. Look at the screen, say the command, and it types it. A preview sits in front of every send, and you can cancel. Open source beta.
+**[saywhen](https://ansarbuilds.dev/#project/saywhen)** is hands-free voice input for terminals and coding assistants. Look at the screen, say the command, and it types it. Pause and keep talking during the preview to add to your thought, or cancel with Esc, a head shake, or "scratch that". Runs locally on Whisper GPU (up to Large v3 Turbo) with optional 3-phrase voice enrollment. [Open source beta on GitHub](https://github.com/ansarbuilds/saywhen).
 
 ## Selected work
 
