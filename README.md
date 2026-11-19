@@ -6,7 +6,7 @@
   <a href="https://ansarbuilds.dev"><img src="https://img.shields.io/badge/Portfolio-ansarbuilds.dev-d5360c?style=for-the-badge&labelColor=101010" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/kmsmohamedansar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-e6d5bd?style=for-the-badge&logo=linkedin&logoColor=101010&labelColor=101010" alt="LinkedIn" /></a>
   <a href="mailto:mohamedansarkms@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-74200d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email" /></a>
-  <!-- loc-start --><img src="https://img.shields.io/badge/Lines%20of%20Code-674%2C672-e6d5bd?style=for-the-badge&labelColor=101010" alt="Lines of Code: 674,672" /><!-- loc-end -->
+  <!-- loc-start --><img src="https://img.shields.io/badge/Lines%20of%20Code-674%2C909-e6d5bd?style=for-the-badge&labelColor=101010" alt="Lines of Code: 674,909" /><!-- loc-end -->
 </p>
 
 I build agents, test AI claims in public, and take small products from idea to release. I'm in Canada.
