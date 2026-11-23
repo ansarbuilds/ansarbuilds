@@ -10,7 +10,7 @@
 
 <!-- loc-start -->
 <p align="center">
-  <img src="./assets/code-telemetry.svg" width="100%" alt="Codebase Telemetry: 730,150 total lines of code written — Python (273,269), Typescript & Js (195,726), Swift (85,462), C, Sql & Native (44,245), Rust & Tauri (29,290)" />
+  <img src="./assets/code-telemetry.svg" width="100%" alt="Codebase Telemetry: 730,598 total lines of code written — Python (273,257), Typescript & Js (195,831), Swift (85,462), C, Sql & Native (44,245), Rust & Tauri (29,290)" />
 </p>
 <!-- loc-end -->
 
