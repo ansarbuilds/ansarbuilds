@@ -43,9 +43,6 @@ An independent test of a reverse-engineering tool for agents. No clear gain, and
 **[StoryEra](https://github.com/ansarbuilds/storyera)**
 An agent skill that checks a novel for continuity, cites the passages, and leaves the author in charge.
 
-**[Digital Me](https://github.com/ansarbuilds/ai-digital-double)**
-A 3D head made from phone photos and 13 seconds of video. The approaches that failed are written down too.
-
 ## On the App Store
 
 - **[Haloscript](https://apps.apple.com/ca/app/haloscript/id6820670080)**, a writing studio for Mac, iPad, and iPhone.
