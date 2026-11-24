@@ -10,13 +10,13 @@
 
 <!-- loc-start -->
 <p align="center">
-  <img src="./assets/code-telemetry.svg" width="100%" alt="Codebase Telemetry: 736,111 total lines of code written — Python (275,439), Typescript & Js (196,185), Swift (85,462), C, Sql & Native (44,603), Rust & Tauri (30,975)" />
+  <img src="./assets/code-telemetry.svg" width="100%" alt="Codebase Telemetry: 736,221 total lines of code written — Python (275,474), Typescript & Js (196,233), Swift (85,462), C, Sql & Native (44,603), Rust & Tauri (30,978)" />
 </p>
 <!-- loc-end -->
 
 <!-- hours-start -->
 <p align="center">
-  <img src="./assets/build-hours.svg" width="100%" alt="Build hours: about 300+ hours spent building on GitHub since Nov 2023, across 150 work sessions on 98 days, estimated from commit times." />
+  <img src="./assets/build-hours.svg" width="100%" alt="Build hours: about 300+ hours spent building on GitHub since Nov 2023, across 151 work sessions on 99 days, estimated from commit times." />
 </p>
 <!-- hours-end -->
 
