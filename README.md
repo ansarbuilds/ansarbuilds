@@ -14,6 +14,12 @@
 </p>
 <!-- loc-end -->
 
+<!-- hours-start -->
+<p align="center">
+  <img src="./assets/build-hours.svg" width="100%" alt="Build hours: about 300+ hours spent building on GitHub since Nov 2023, across 150 work sessions on 98 days, estimated from commit times." />
+</p>
+<!-- hours-end -->
+
 I build agents, test AI claims in public, and take small products from idea to release. I'm in Canada.
 
 ## Now

@@ -28,12 +28,17 @@ jobs:
           LOC_TOKEN: ${{ secrets.LOC_TOKEN || github.token }}
         run: python3 .github/scripts/update_loc.py
 
-      - name: Commit updated README and telemetry SVG
+      - name: Re-estimate build hours from commit times
+        env:
+          LOC_TOKEN: ${{ secrets.LOC_TOKEN || github.token }}
+        run: python3 .github/scripts/update_hours.py
+
+      - name: Commit updated README and telemetry SVGs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898183+github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/code-telemetry.svg
+          git add README.md assets/code-telemetry.svg assets/build-hours.svg
           git diff --cached --quiet && exit 0
-          git commit -m "Update lines of code telemetry in README"
+          git commit -m "Update code and build hours telemetry in README"
           git pull --rebase
           git push
