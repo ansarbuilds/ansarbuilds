@@ -60,7 +60,7 @@
       <text x="16" y="56" class="stat-lbl">REPOSITORIES</text>
 
       <rect x="131" y="0" width="128" height="72" rx="6" fill="#161311"/>
-      <text x="147" y="38" class="stat-val">1,298</text>
+      <text x="147" y="38" class="stat-val">1,299</text>
       <text x="147" y="56" class="stat-lbl">COMMITS PUSHED</text>
 
       <rect x="272" y="0" width="108" height="72" rx="6" fill="#161311"/>
