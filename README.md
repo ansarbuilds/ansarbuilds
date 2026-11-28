@@ -24,11 +24,11 @@ I build local-first apps and small AI models that run on your machine, not someo
 
 ## Now
 
-**[Sirius](https://huggingface.co/ansarbuilds/Sirius-Core)** is a focus aid for ADHD that runs entirely on your Mac. It reads only the title of the window in front of you and asks two small models of my own (32.5 MB each, about 7 ms on the CPU) whether it fits your work. Drift for two minutes and it checks in once, gently. Mac beta in progress. [Try the models in your browser](https://huggingface.co/spaces/ansarbuilds/sirius-demo).
+**[Sirius](https://ansarbuilds.dev/work/sirius/)** is a focus aid for ADHD that runs entirely on your Mac. It reads only the title of the window in front of you and asks two small models of my own (32.5 MB each, about 7 ms on the CPU) whether it fits your work. Drift for two minutes and it checks in once, gently. Mac beta in progress. [Try the models in your browser](https://huggingface.co/spaces/ansarbuilds/sirius-demo).
 
 ## Shipped
 
-**[Hermione](https://huggingface.co/ansarbuilds/hermione-models)**
+**[Hermione](https://ansarbuilds.dev/work/hermione/)**
 Jira and Confluence as one file on your Mac, with a small AI model that runs offline. Custom 2B models, fine-tuned and gated on unseen requests before they ship.
 
 **[saywhen](https://ansarbuilds.dev/work/saywhen/)**
