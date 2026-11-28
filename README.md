@@ -20,45 +20,38 @@
 </p>
 <!-- hours-end -->
 
-I build agents, test AI claims in public, and take small products from idea to release. I'm in Canada.
+I build local-first apps and small AI models that run on your machine, not someone else's. I'm a solutions engineer in Canada.
 
 ## Now
 
-**[saywhen](https://ansarbuilds.dev/#project/saywhen)** is hands-free voice input for terminals and coding assistants. Look at the screen, say the command, and it types it. Pause and keep talking during the preview to add to your thought, or cancel with Esc, a head shake, or "scratch that". Runs locally on Whisper GPU (up to Large v3 Turbo) with optional 3-phrase voice enrollment. [Open source beta on GitHub](https://github.com/ansarbuilds/saywhen).
+**[Sirius](https://huggingface.co/ansarbuilds/Sirius-Core)** is a focus aid for ADHD that runs entirely on your Mac. It reads only the title of the window in front of you and asks two small models of my own (32.5 MB each, about 7 ms on the CPU) whether it fits your work. Drift for two minutes and it checks in once, gently. Mac beta in progress. [Try the models in your browser](https://huggingface.co/spaces/ansarbuilds/sirius-demo).
 
-## Selected work
+## Shipped
 
-**[Agent Flight Recorder](https://github.com/ansarbuilds/agent-flight-recorder)**
-A local black box for coding agents. It keeps the run and points at the edit that broke the test. [On PyPI](https://pypi.org/project/flightrecorder-ai/).
+**[Hermione](https://huggingface.co/ansarbuilds/hermione-models)**
+Jira and Confluence as one file on your Mac, with a small AI model that runs offline. Custom 2B models, fine-tuned and gated on unseen requests before they ship.
 
-**[My Take on PRH-JEPA](https://github.com/ansarbuilds/prh-jepa)**
-I re-ran a LeCun paper on one laptop, matched the open baselines, and found what the score was hiding.
+**[saywhen](https://ansarbuilds.dev/work/saywhen/)**
+Look at the screen and talk. It types, then waits before it sends. My first open-source app, a Mac and Windows beta. [On GitHub](https://github.com/ansarbuilds/saywhen).
 
-**[My Take on Jev](https://github.com/ansarbuilds/decision-models)**
-A small free model routed support tickets better than a larger one, and ran faster on the same laptop.
+**[Haloscript](https://ansarbuilds.dev/work/haloscript/)**
+A writing studio for novelists on Mac, iPad and iPhone, syncing through your own iCloud. My second App Store app. [On the App Store](https://apps.apple.com/ca/app/haloscript/id6820670080).
 
-**[My Take on REA](https://github.com/ansarbuilds/rea-study)**
-An independent test of a reverse-engineering tool for agents. No clear gain, and the result is published in full.
+**[Agent Flight Recorder](https://ansarbuilds.dev/work/agent-flight-recorder/)**
+When a coding agent breaks a test, it shows which edit did it. [On GitHub](https://github.com/ansarbuilds/agent-flight-recorder) and [PyPI](https://pypi.org/project/flightrecorder-ai/).
 
-**[StoryEra](https://github.com/ansarbuilds/storyera)**
-An agent skill that checks a novel for continuity, cites the passages, and leaves the author in charge.
-
-## On the App Store
-
-- **[Haloscript](https://apps.apple.com/ca/app/haloscript/id6820670080)**, a writing studio for Mac, iPad, and iPhone.
-- **[RepTrack](https://apps.apple.com/us/app/reptrack-workout-log/id6761032027)**, a workout log for the gym floor.
-
-Case studies and the rest of the work are on the [portfolio](https://ansarbuilds.dev).
+Also: [RepTrack](https://apps.apple.com/us/app/reptrack-workout-log/id6761032027) on the App Store, [StoryEra](https://github.com/ansarbuilds/storyera), and studies re-running published AI claims ([PRH-JEPA](https://github.com/ansarbuilds/prh-jepa), [REA](https://github.com/ansarbuilds/rea-study)). The full story of each is on the [portfolio](https://ansarbuilds.dev).
 
 ## Tools
 
 | Area | What I reach for |
 |---|---|
 | Data | SQL, Snowflake, Python, DuckDB, dbt |
-| Building | Swift, TypeScript, React, Tauri, Rust |
-| AI | Claude Code, MCP, PyTorch, agent skills |
+| Apps | Swift, SwiftUI, Tauri, Rust, TypeScript, React |
+| On-device AI | PyTorch, Unsloth, llama.cpp, ONNX, Whisper |
+| Working with agents | Claude Code, Codex, MCP |
 
-Some projects use made-up data so private client details stay off the page. AI coding tools speed up the build. I still own the problem, the tests, and the final call.
+AI coding tools speed up the build. I still own the problem, the tests and the final call, and I publish what failed next to what worked.
 
 <p align="center">
   If a project is useful, <a href="mailto:mohamedansarkms@gmail.com"><b>say hi</b></a>.
